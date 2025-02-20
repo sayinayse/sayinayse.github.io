@@ -44,7 +44,7 @@ Sorunun ipuçlarında `bssid + wigle.net` var.
 
 Bu sayı cihazların üretim aşamalarında atanan tekil bir sayıdır (ağa bağlanabilen bütün cihazların anakartlarında ağa bağlandındığı bir ağ arayüzü olmalı, işte bu tekil sayı oraya atanır).
 
-[wigle.net](wigle.net) ise kablosuz ağ erişiminde bulunan cihazları haritalandıran bir veri tabanıdır denilebilir.
+[wigle.net](https://wigle.net/) ise kablosuz ağ erişiminde bulunan cihazları haritalandıran bir veri tabanıdır denilebilir.
 
 `owoodflint` kullanıcı adlı twitter, pardon x, hesabında yer alan ikinci girdide kullanıcının bssid'sini paylaştığını görebilirsiiz. ilgili bssid'yi wigle.net'te aratmanız durumunda cevaba erişeceksiniz: **London**. 
 
