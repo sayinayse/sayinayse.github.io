@@ -15,7 +15,7 @@ analog fdma olması hasebiyle global bir standardı yok idi. amerika'daki cihaz 
 en başta american mobile phone service idi ardından advanced mobile phone service denildi ki kısaltmaları gördüğünüz üzere amps şeklinde ve eş.
 
 amps için ufak bir şema:
-![amps](/wireless-communication/amps.png){: .center }
+![amps](/images/wireless-communication/amps.png){: .center }
 
 800 mhz civarlarında.
 

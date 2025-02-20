@@ -209,7 +209,7 @@ Burada gördüğünüz linux `/etc/shadow` klasöründe tutulan parola formatı 
 * aad3b435b51404eeaad3b435b51404ee: LM hash
 * ffb43f0de35be4d9917ac0cc8ad57f8d: NT hash
 
-Öz değerinden parola bulmanın detaylarına [HashCracking](2025-01-05-tryhackme-cracking-hashes.md) yazısında değinmiştim. Bu sebepten doğrudan yanıta bakabiliriz burada:  **alqfna22**
+Öz değerinden parola bulmanın detaylarına [HashCracking](/posts/tryhackme-cracking-hashes) yazısında değinmiştim. Bu sebepten doğrudan yanıta bakabiliriz burada:  **alqfna22**
 
 ```console
 root@ip-10-10-74-121:~# john --format=NT  --wordlist=/usr/share/wordlists/rockyou.txt hash

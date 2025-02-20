@@ -13,7 +13,7 @@ tags:
 
 ## Giriş
 
-**[Crach the hash](https://tryhackme.com/r/room/crackthehash)** *öz* değerlerini çeşitli araçları kullanarak kıracağınız ve *öz* değerlerinin karşılık geldiği açık metin değerleri yazarak soruları yanıtlayacağınız bir odadır. *Öz fonksiyonları* ile ilgili detaylı bilgiyi paylaşmayacağım fakat ayırsanmasının önemli olduğunu düşündüğüm 3 terimden bahsetmek istiyorum odadaki görevlere başlamadan evvel. Bu terimler *öz alma*, *kodlama* ve *şifreleme*dir. [Lügat](\2025-01-04-lugat.md) sayfasından ecnebice[^1] karşılıklarına bakabilirsiniz. 
+**[Crach the hash](https://tryhackme.com/r/room/crackthehash)** *öz* değerlerini çeşitli araçları kullanarak kıracağınız ve *öz* değerlerinin karşılık geldiği açık metin değerleri yazarak soruları yanıtlayacağınız bir odadır. *Öz fonksiyonları* ile ilgili detaylı bilgiyi paylaşmayacağım fakat ayırsanmasının önemli olduğunu düşündüğüm 3 terimden bahsetmek istiyorum odadaki görevlere başlamadan evvel. Bu terimler *öz alma*, *kodlama* ve *şifreleme*dir. [Lügat](/posts/lugat) sayfasından ecnebice[^1] karşılıklarına bakabilirsiniz. 
 
 ### Terimlerin Açıklamaları
 
