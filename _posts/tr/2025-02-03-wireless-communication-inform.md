@@ -15,13 +15,3 @@ Bu nedenle, bu konuda, içerikleri bir arşiv gibi tutmak yerine yalnızca dosya
 
 >**GEÇMİŞ GELECEKTEN NOT:** Vakit geçmeden düzenlemeye ihtiyaç duyuldu, en azından belirli bir sırayla sunulabilir
 
-1. [İletim Temelleri](/posts/wireless-communication-basics)
-2. [Kablosuz Ortamın Nitelikleri](/posts/wireless-communication-wireless-environment)
-3. [Sinyal İletiminde Kayıp Etkisi](/posts/wireless-communication-loss-models)
-4. [Kanal Modelleri](/posts/wireless-communication-wireless-channel-models)
-
-Bu başlıklardan sonra, hücre kavramına ve mobil iletişime geçilebilir.
-
-5. [Hücre Konsepti](/posts/wireless-communication-cell-concept)
-6. [Evrimsel Gelişim (gezgin ağ)](/posts/wireless-communication-evolution)
-7. Sönümlü kanalda performans hesabı
