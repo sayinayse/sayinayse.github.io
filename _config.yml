@@ -231,3 +231,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Custom head include
+head_includes:
+  - custom-head.html
