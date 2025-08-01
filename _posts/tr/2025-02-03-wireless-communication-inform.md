@@ -15,3 +15,4 @@ Bu nedenle, bu konuda, içerikleri bir arşiv gibi tutmak yerine yalnızca dosya
 
 >**GEÇMİŞ GELECEKTEN NOT:** Vakit geçmeden düzenlemeye ihtiyaç duyuldu, en azından belirli bir sırayla sunulabilir
 
+[İletim Temelleri](/posts/wireless-communication-basics)

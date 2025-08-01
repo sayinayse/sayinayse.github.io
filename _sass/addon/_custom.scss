@@ -1,0 +1,27 @@
+.hover-term {
+  position: relative;
+  cursor: help;
+  border-bottom: 1px dotted #666;
+}
+
+.hover-term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 120%;
+  background-color: #333;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  pointer-events: none;
+  font-size: 0.75rem;
+  z-index: 100;
+}
+
+.hover-term:hover::after {
+  opacity: 1;
+}
