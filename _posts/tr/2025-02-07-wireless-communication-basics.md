@@ -16,3 +16,5 @@ Kablosuz iletişimde üç temel iletim karakteristiğinden bahsedilebilir:
 1. **<span class="hover-term" data-tooltip="Path Loss">Yol Kaybı</span>**  
    Bu, deterministik (belirlenimci) bir kayıptır ve gönderici ile alıcı arasındaki mesafeden kaynaklanır.
 
+> An example showing the `tip` type prompt.
+{: .prompt-tip }
