@@ -1,6 +1,6 @@
 ---
 title: "Kablosuz İletişim Temelleri: Bilgilendirme"
-date: 2025-02-09T17:03:30-04:00
+date: 2025-02-05T17:03:30-04:00
 categories:
   - Kablosuz Haberleşme
 tags:
@@ -15,4 +15,5 @@ Bu nedenle, bu konuda, içerikleri bir arşiv gibi tutmak yerine yalnızca dosya
 
 >**GEÇMİŞ GELECEKTEN NOT:** Vakit geçmeden düzenlemeye ihtiyaç duyuldu, en azından belirli bir sırayla sunulabilir
 
-[İletim Temelleri](/posts/wireless-communication-basics)
+1. [İletim Temelleri](/posts/wireless-communication-basics)
+2. [Kablosuz Ortamın Nitelikleri](/posts/wireless-communication-wireless-environment)
