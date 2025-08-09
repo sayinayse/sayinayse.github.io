@@ -17,4 +17,4 @@ Kablosuz iletişimde üç temel iletim karakteristiğinden bahsedilebilir:
    Bu, deterministik (belirlenimci) bir kayıptır ve gönderici ile alıcı arasındaki mesafeden kaynaklanır.
 
 > An example showing the `tip` type prompt.
-{: .prompt-tip }
+{:.prompt .prompt-tip}
