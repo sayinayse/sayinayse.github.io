@@ -1,6 +1,6 @@
 ---
 title: "Yanlışlıkla Açığa Çıkan Gizli Belgeler: Güvenli Dizinleme"
-date: 2025-02-07T17:08:30-04:00
+date: 2025-08-10T17:08:30-04:00
 categories:
   - Çeşitli Yazılar
 tags:
