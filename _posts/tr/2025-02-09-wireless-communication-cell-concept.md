@@ -35,7 +35,7 @@ Yozgat'ta mobil iletişim altyapısı kurmaktan bahsetmiştik [önceki yazıda](
 Dizayn parametrelerimi neler olabilir?
 - **Bant Genişliği**: Her bir hücreye ayrılacak toplam bant genişliği belirlenmeli (Örn. 20 MHz).
 - **Kullanıcı Başına Bant Genişliği Tahsisi**: Tek bir kullanıcıya ayrılacak kanal genişliği tanımlanmalı (Örn. 100 kHz).
-- **Kanal Modeli ve **<span class="hover-term" data-tooltip="Path Loss">Yol Kaybı</span>** Katsayısı**: Seçilen kanal modeline (bkz. [kayıp modelleri](/posts/wireless-communication-loss-models) ) göre yapılacak analiz sonucunda yol kaybı katsayısı belirlenmeli (Örn. 𝑔 = 2).
+- **Kanal Modeli ve **<span class="hover-term" data-tooltip="Path Loss">Yol Kaybı</span>** Katsayısı**: Seçilen kanal modeline ( ) göre yapılacak analiz sonucunda yol kaybı katsayısı belirlenmeli (Örn. 𝑔 = 2).
 - **Kalite Hedefleri**: Hizmet kalitesini belirlemeli **<span class="hover-term" data-tooltip="signal to interference ratio">sinyal girişim oranı</span>** tanımlanmalıdır (Örn. sesli iletişim için 10 dB SIR hedefi).
 - **Hücre Yarıçapı**: Altyapı yerleşiminde her bir hücrenin kapsama yarıçapı belirlenmeli (Örn. 200 m).
 - **Frekans Yeniden Kullanım Politikası**: Komşu olmayan hücrelerde aynı frekansların tekrar kullanımı için bir plan gerekir
