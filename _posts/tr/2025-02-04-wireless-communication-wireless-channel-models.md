@@ -57,7 +57,6 @@ Bir önceki senaryoda vericinin, alıcının, ortamdaki nesnelerin birinin ya da
 ![channel-models](/images/wireless-communication/channel-models.png){: .center }
 
 > **Not:** Burada bir alt not düşmek isterim. Diyelim kanalımız frekans seçimli fakat bizim sinyalimizin bant genişliği bu seçimli frekans aralığından daha dar. O zaman gönderdiğimiz sinyal *frekans seçimli olmayan* bir davranış gösterebilir. İlgili yardımcı görsel: 
-![[frekans seçimli-seçimsiz.png]]
 ![channel-models1](/images/wireless-communication/channel-models1.png){: .center }
 
 ---
