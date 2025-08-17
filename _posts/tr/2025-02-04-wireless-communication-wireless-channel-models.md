@@ -26,7 +26,7 @@ Kablosuz iletişimde kanal modelleri, ortamdan eklenen gürültüye ve kanalın 
 
 Bu senaryoda verici ve alıcı arasında <span class="hover-term" data-tooltip="interference loss">girişim kaybı</span> ve <span class="hover-term" data-tooltip="shadowing">gölgelenme</span> var. Bu etkiler, sinyalin gücünü azaltıyor.
 
-Bkz: Sinyal İletiminde Kayıp Etkisi
+Bkz: [Sinyal İletiminde Kayıp Etkisi](/posts/wireless-communication-loss-models)
 
 ---
 

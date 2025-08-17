@@ -97,3 +97,8 @@ Bu sebeple iletim (sıklığı) oranı düşük tutulmak zorunda kalınabilir.
 
 ### **<span class="hover-term" data-tooltip="Coherent Bandwidth">Uyumlu Bant Genişliği</span>**
 Tabiî sinyaller farklı yolak ve zamanlarda alıcıya ulaşabilrdiği için, alıcı tarafında sinyali işleyebilmek için sinyalin tutarlı kaldığı bir band genişliği/zaman aralığı üzerine hesaplar da yapılmalı.
+
+Bu kavramdan bahsettikten sonra [kanal modelleri](/posts/wireless-communication-wireless-channel-models) üzerine konuşmak/düşünmek iyi olur.
+
+
+[Kablosuz İletişim Temelleri: Bilgilendirme](/posts/wireless-communication-inform)
