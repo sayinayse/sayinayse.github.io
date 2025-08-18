@@ -11,6 +11,4 @@ Kablosuz haberleşmenin gelişimini anlatmaya postalardan ya da diplomatik iliş
 
 Neyse biz bu kadar eskiye gitmeyelim, ticarileşmiş 1G'nin biraz öncesinden başlamak yeterli olacak.
 
-- [1G Öncesi](/posts/wireless-communication-pre1g)
-
 [Kablosuz İletişim Temelleri: Bilgilendirme](/posts/wireless-communication-inform)
