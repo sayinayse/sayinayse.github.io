@@ -1,23 +1,16 @@
 ---
-title: "Kablosuz İletişim Temelleri: Evrimsel Gelişim"
-date: 2025-02-09T17:49:30-04:00
+title: "Kablosuz İletişim Temelleri: Gezgin Ağların Evrimsel Gelişim"
+date: 2025-02-10T17:49:30-04:00
 categories:
-  - Blog Yazıları
+  - Kablosuz Haberleşme
 tags:
-  - kablosuz iletişim temelleri
+  - kablosuz iletişim
 ---
 
-aslında bu işi hakkıyla anlatmak gerekir ise, ki benim açımdan 16 kasım 2024 cumartesi gece 21.10 civarlarında gerekmiyor, telgraftan hatta postalardan hatta modern diplomatik ilişkiler kurulmazdan evvel klasik yunan döneminin [proxeny'lerinden/vekiller](https://en.wikipedia.org/wiki/Proxeny)? (_proxeni_, "yabancının yerine/intead of foreigner") anlamına gelirmiş ki -proxy, bilgisayar ağları terminolojisinde de bulununan proxy- %150 ihtimal ile buradan geliyordur.
+Kablosuz haberleşmenin gelişimini anlatmaya postalardan ya da diplomatik ilişkiler için gönderilen elçilerden başlanabilir (ki ). Hattâ klasik Yunan döneminde [proxeny'lerinden/vekiller](https://en.wikipedia.org/wiki/Proxeny)den bile başlanabilir. “_Proxeni_”, yabancının yerine/temsil etmek etmek anlamına geliyor ki bilgisayar ağları terminolojisindeki **proxy** terimi de yüksek ihtimalle buradan geliyor.
 
-neyse oraya değin gitmeyelim fakat elçiliklere değin gidebilirdik.
+Neyse biz bu kadar eskiye gitmeyelim, ticarileşmiş 1G'nin biraz öncesinden başlamak yeterli olacak.
 
-**sonradan gelen not:** bu dosya çok uzayacak gibi, o sebepten bölmek iyi olacak gibi:
-
-- [Pre 1G](/posts/wireless-communication-pre1g)
-- [1G](/posts/wireless-communication-1g)
-- [2G](/posts/wireless-communication-2g)
-- [3G](/posts/wireless-communication-3g)
-- [4G](/posts/wireless-communication-4g)
-- [5G](/posts/wireless-communication-5g)
+- [1G Öncesi](/posts/wireless-communication-pre1g)
 
 [Kablosuz İletişim Temelleri: Bilgilendirme](/posts/wireless-communication-inform)
