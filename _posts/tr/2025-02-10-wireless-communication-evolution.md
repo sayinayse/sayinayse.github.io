@@ -7,7 +7,7 @@ tags:
   - kablosuz iletişim
 ---
 
-Kablosuz haberleşmenin gelişimini anlatmaya postalardan ya da diplomatik ilişkiler için gönderilen elçilerden başlanabilir (ki ). Hattâ klasik Yunan döneminde [proxeny'lerinden/vekiller](https://en.wikipedia.org/wiki/Proxeny)den bile başlanabilir. “_Proxeni_”, yabancının yerine/temsil etmek etmek anlamına geliyor ki bilgisayar ağları terminolojisindeki **proxy** terimi de yüksek ihtimalle buradan geliyor.
+Kablosuz haberleşmenin gelişimini anlatmaya postalardan ya da diplomatik ilişkiler için gönderilen elçilerden başlanabilir. Hattâ klasik Yunan döneminde [proxeny'lerinden/vekiller](https://en.wikipedia.org/wiki/Proxeny)den bile başlanabilir. “_Proxeni_”, yabancının yerine/temsil etmek etmek anlamına geliyor ki bilgisayar ağları terminolojisindeki **proxy** terimi de yüksek ihtimalle buradan geliyor.
 
 Neyse biz bu kadar eskiye gitmeyelim, ticarileşmiş 1G'nin biraz öncesinden başlamak yeterli olacak.
 

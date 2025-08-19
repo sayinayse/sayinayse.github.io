@@ -23,5 +23,4 @@ Bu nedenle, bu konuda, içerikleri bir arşiv gibi tutmak yerine yalnızca dosya
 Bu başlıklardan sonra, hücre kavramına ve mobil iletişime geçilebilir.
 
 5. [Hücre Konsepti](/posts/wireless-communication-cell-concept)
-6. [Gezgin Ağların Evrimsel Gelişim](/posts/wireless-communication-evolution)
 
