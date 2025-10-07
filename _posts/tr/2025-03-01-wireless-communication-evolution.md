@@ -9,7 +9,6 @@ tags:
 
 Aslında bu işi hakkıyla anlatmak gerekirse telgraftan, postalardan, hattâ modern diplomatik ilişkiler kurulmazdan evvel klasik Yunan döneminin [proxeny’lerinden / vekiller](https://en.wikipedia.org/wiki/Proxeny) bahsetmek gerekirdi. (_proxeni_, “yabancının yerine / instead of foreigner” anlamına geliyor ki bu da bilgisayar ağları terminolojisindeki **<span class="hover-term" data-tooltip="proxy">aracı sunucu</span>** kavramının geldiği yer.)  
 
-Neyse, oraya kadar gitmeyelim, 
 Neyse, oraya kadar gitmeyelim. Biz ticarileşmiş ve hücresel sistemi kullanan *1G’den biraz evvele* gidelim.  
 
 Bu dönem yaklaşık *1920–1979* arasını kapsıyor denilebilir. Veri iletim oranı *saniyede 14.4 kilobit* düzeyine kadar çıkabiliyordu. (*14.4 kbps = saniyede 14.4 kilobit veri iletim oranı*).  
